@@ -21,7 +21,7 @@ I focus on writing clean, reusable automation code and continuously improving my
 - Enhancing **API validation and defect management** workflows in Agile environments
 - Writing **clean, reusable, and maintainable test scripts**
 - Enhancing **test coverage and execution efficiency**
-- 
+  
 ---
 
 ## 🌱 Currently Learning  
