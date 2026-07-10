@@ -1,39 +1,48 @@
-<h2 align="center">Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
+<h2 align="center">
+Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
+</h2>
 
-[![Typing _SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=4169E1&center=true&vCenter=true&width=810&lines=I'm+Avinash++Sinha;And%2C+I'm+Software+Development+Engineer+in+Test+(SDET)+💻)](https://AvinashSinha999.me)
+<p align="center">
 
-## 🙋‍♂️ About Me  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=4169E1&center=true&vCenter=true&width=900&lines=I'm+Avinash+Sinha;Software+Development+Engineer+in+Test+(SDET)+💻)](https://github.com/AvinashSinha999)
 
-**Software Development Engineer in Test (SDET)** with **4 years of experience** in **manual testing and automation testing (Selenium with Java)**.
-
-I have hands-on experience in **functional and regression testing, API validation, and defect management** within Agile environments. I’ve worked on improving testing efficiency by developing automation scripts and supporting stable software releases.
-
-Alongside my professional experience, I actively build **automation frameworks using Selenium WebDriver with TestNG**, applying the **Page Object Model (POM)** to create scalable, maintainable test solutions. I'm also currently learning **Playwright with TypeScript** to expand my automation testing skill set into modern web automation.
-
-I focus on writing clean, reusable automation code and continuously improving my testing approach to ensure high-quality software delivery.
+</p>
 
 ---
 
-## 🔧 Polishing My Skills  
+# 🙋‍♂️ About Me
 
-- Strengthening **automation framework design** using Selenium + TestNG (POM)
-- Improving **functional and regression testing** practices
-- Enhancing **API validation and defect management** workflows in Agile environments
-- Writing **clean, reusable, and maintainable test scripts**
-- Enhancing **test coverage and execution efficiency**
-  
----
+**Software Development Engineer in Test (SDET)** with **4 years of experience** in **Manual Testing** and **UI Automation using Selenium with Java**.
 
-## 🌱 Currently Learning  
+I have hands-on experience in **Functional Testing**, **Regression Testing**, **API Validation**, and **Defect Management** while working in **Agile Scrum environments**. My experience includes developing automation scripts, executing test strategies, identifying defects, and supporting stable software releases.
 
-- Learning **Playwright with TypeScript** for modern web automation testing
-- Exploring **Playwright's built-in features** like auto-waiting, tracing, and cross-browser testing
-- Exploring **CI/CD concepts for automation testing**
-- Understanding how to integrate automation with pipelines (basic level)
+Beyond my professional work, I enjoy building **automation frameworks** using **Selenium WebDriver**, **TestNG**, and the **Page Object Model (POM)**. I am also expanding my automation expertise by learning **Playwright with TypeScript** for modern web automation.
+
+I enjoy writing **clean**, **reusable**, and **maintainable automation code** while continuously improving my technical skills through hands-on projects and continuous learning.
 
 ---
 
-## 💼 Technical Skills
+# 🚀 Areas of Focus
+
+- Building scalable **Selenium + TestNG Automation Frameworks**
+- Improving **Framework Design** and **Page Object Model (POM)** implementation
+- Writing **Clean**, **Reusable**, and **Maintainable** automation code
+- Strengthening **Functional**, **Regression**, and **API Testing** practices
+- Improving **Test Coverage**, **Execution Efficiency**, and **Reporting**
+
+---
+
+# 🌱 Currently Learning
+
+- **Playwright with TypeScript**
+- Advanced **Playwright** features (Auto-Waiting, Tracing, Fixtures, Network Interception)
+- Cross-browser automation using **Playwright**
+- **CI/CD** concepts for automation testing
+- Test execution in automation pipelines
+
+---
+
+# 💼 Technical Skills
 
 <p align="center">
 
@@ -48,6 +57,8 @@ I focus on writing clean, reusable automation code and continuously improving my
 
 <!-- API -->
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JSON-5E5CFF?style=for-the-badge&logo=json&logoColor=white"/>
 
 <!-- Testing -->
 <img src="https://img.shields.io/badge/Manual_Testing-1ABC9C?style=for-the-badge"/>
@@ -77,17 +88,30 @@ I focus on writing clean, reusable automation code and continuously improving my
 
 ---
 
-## 🧩 My Projects  
+# 📂 Featured Projects
 
-You can explore all my repositories and ongoing automation projects here:  
-➡️ [**GitHub Profile — Avinash Sinha**](https://github.com/AvinashSinha999?tab=repositories)
+Explore my automation frameworks, learning repositories, and practice projects:
+
+➡️ **https://github.com/AvinashSinha999?tab=repositories**
 
 ---
 
-## 📊 Most Used Languages  
+# 📈 GitHub Statistics
 
 <p align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvinashSinha999&layout=compact&theme=default&langs_count=6&cache_seconds=21600" alt="Avinash's Top Languages" />
-  
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AvinashSinha999&show_icons=true&theme=default"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=AvinashSinha999"/>
+
+</p>
+
+---
+
+# 📊 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvinashSinha999&layout=compact&theme=default&langs_count=6&cache_seconds=21600"/>
+
 </p>
