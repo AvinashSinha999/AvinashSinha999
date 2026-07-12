@@ -12,33 +12,25 @@ Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=
 
 # 🙋‍♂️ About Me
 
-**Software Development Engineer in Test (SDET)** with **4 years of experience** in **Manual Testing** and **UI Automation using Selenium with Java**.
+I'm a **Software Development Engineer in Test (SDET)** with **4 years of professional experience** in **Manual Testing** and **UI Automation using Selenium with Java**.
 
-I have hands-on experience in **Functional Testing**, **Regression Testing**, **API Validation**, and **Defect Management** while working in **Agile Scrum environments**. My experience includes developing automation scripts, executing test strategies, identifying defects, and supporting stable software releases.
+My experience includes **Functional Testing**, **Regression Testing**, **API Validation**, **Defect Management**, and working in **Agile Scrum environments**. I have contributed to designing test strategies, automating repetitive test scenarios, identifying software defects, and supporting reliable software releases.
 
-Beyond my professional work, I enjoy building **automation frameworks** using **Selenium WebDriver**, **TestNG**, and the **Page Object Model (POM)**. I am also expanding my automation expertise by learning **Playwright with TypeScript** for modern web automation.
+Outside of my professional work, I actively build **automation frameworks**, explore modern testing tools, and create **hands-on learning repositories** to continuously strengthen my automation testing skills.
 
-I enjoy writing **clean**, **reusable**, and **maintainable automation code** while continuously improving my technical skills through hands-on projects and continuous learning.
-
----
-
-# 🚀 Areas of Focus
-
-- Building scalable **Selenium + TestNG Automation Frameworks**
-- Improving **Framework Design** and **Page Object Model (POM)** implementation
-- Writing **Clean**, **Reusable**, and **Maintainable** automation code
-- Strengthening **Functional**, **Regression**, and **API Testing** practices
-- Improving **Test Coverage**, **Execution Efficiency**, and **Reporting**
+I enjoy writing **clean**, **reusable**, and **maintainable automation code** while continuously learning new technologies and best practices.
 
 ---
 
-# 🌱 Currently Learning
+# 🚀 What I Do
 
-- **Playwright with TypeScript**
-- Advanced **Playwright** features (Auto-Waiting, Tracing, Fixtures, Network Interception)
-- Cross-browser automation using **Playwright**
-- **CI/CD** concepts for automation testing
-- Test execution in automation pipelines
+- ⚙️ Build scalable **Selenium Automation Frameworks**
+- 🏗️ Design maintainable frameworks using **Page Object Model (POM)**
+- 🌐 Develop **UI Automation** solutions using Selenium WebDriver
+- 📡 Perform **API Testing** using Postman and REST APIs
+- 🧪 Execute **Functional**, **Regression**, **Smoke**, and **Sanity Testing**
+- 📈 Improve **Test Coverage**, **Execution Efficiency**, and **Automation Quality**
+- 📚 Build learning projects to explore modern automation technologies
 
 ---
 
@@ -88,11 +80,37 @@ I enjoy writing **clean**, **reusable**, and **maintainable automation code** wh
 
 ---
 
+# 🌱 Currently Learning
+
+- 🎭 Playwright with **TypeScript**
+- ⚡ Advanced Playwright concepts (Fixtures, Auto-Waiting, Tracing, Network Interception)
+- 🌍 Cross-browser automation using Playwright
+- 🔄 CI/CD concepts for Test Automation
+- 🚀 Automation execution within CI/CD pipelines
+
+---
+
 # 📂 Featured Projects
 
-Explore my automation frameworks, learning repositories, and practice projects:
+Explore my automation frameworks, learning repositories, and practice projects.
 
-➡️ **https://github.com/AvinashSinha999?tab=repositories**
+### 🔹 API Automation Frameworks
+- REST Assured Automation Frameworks
+- Postman API Testing Repository
+
+### 🔹 UI Automation Frameworks
+- Selenium Learning Framework
+- Selenium Advanced Framework
+
+### 🔹 Modern Automation
+- Playwright Automation Programs
+
+### 🔹 Programming
+- Java Programs
+
+### 🔗 GitHub Repositories
+
+**https://github.com/AvinashSinha999?tab=repositories**
 
 ---
 
@@ -115,3 +133,7 @@ Explore my automation frameworks, learning repositories, and practice projects:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvinashSinha999&layout=compact&theme=default&langs_count=6&cache_seconds=21600"/>
 
 </p>
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories.*
